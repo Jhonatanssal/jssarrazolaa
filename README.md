@@ -18,8 +18,6 @@
 
 <br/>
 
-[![Jhonatan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jssarrazolaa&show_icons=true)](https://github.com/jssarrazolaa)
-
 ### 🤝🏻 Connect with Me
 
 <p align="center">
@@ -33,3 +31,6 @@
     <img align="left" alt="Ajay's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
   </a>
 </p>
+
+[![Jhonatan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jssarrazolaa&show_icons=true)](https://github.com/jssarrazolaa)
+
