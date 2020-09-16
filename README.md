@@ -1,16 +1,35 @@
-### Hi there 👋
+## Hey there! I'm Jhonatan 👋😁
 
-<!--
-**jssarrazolaa/jssarrazolaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨🏻‍💻 About Me 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on becoming a Full-Stack Developer
+- 🌱 I’m currently learning at Microverse about HTML5/CSS3, JavaScript, Ruby, Ruby on Rails, React and Redux.
+- 💼 I'm looking for a new job in web development.
+- 💬 Ask me about anything you want to know
+- 📫 How to reach me: jhonatan6512s.a@gmail.com
+- 😄 Pronouns: He/Him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+
+- 💻 Ruby | Ruby on Rails
+- 🌐 HTML | CSS | JavaScript | Bootstrap
+- 🛢 MySQL 
+- 🔧 Git 
+
+<br/>
+
+[![Jhonatan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jssarrazolaa&show_icons=true)](https://github.com/jssarrazolaa)
+
+### 🤝🏻 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jhonatansarrazola/">
+    <img align="left" alt="Ajay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a href="https://github.com/jssarrazolaa">
+    <img align="left" alt="Ajay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  </a>
+  <a href="https://www.hackerrank.com/jssarrazolaa">
+    <img align="left" alt="Ajay's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+  </a>
+</p>
