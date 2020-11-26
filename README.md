@@ -32,11 +32,11 @@
 
 <br>
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jssarrazolaa&layout=compact)](https://github.com/jssarrazolaa/github-readme-stats)
-<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jssarrazolaa&layout=compact&langs_count=6)](https://github.com/jssarrazolaa/github-Readme-stats)
+
 
 
 [![Jhonatan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jssarrazolaa&show_icons=true)](https://github.com/jssarrazolaa)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jssarrazolaa&layout=compact&langs_count=6&theme=buefy)](https://github.com/jssarrazolaa/github-Readme-stats)
