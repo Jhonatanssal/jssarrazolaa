@@ -3,17 +3,17 @@
 ### 👨🏻‍💻 About Me 
 
 - 🔭 I’m currently working on becoming a Full-Stack Developer
-- 🌱 I’m currently learning at Microverse about HTML5/CSS3, JavaScript, Ruby, Ruby on Rails, React and Redux.
+- 🌱 I’m currently learning at Microverse about HTML5/CSS3, JavaScript, Ruby, Ruby on Rails.
 - 💼 I'm looking for a new job in web development.
 - 💬 Ask me about anything you want to know
-- 📫 How to reach me: jhonatan6512s.a@gmail.com
+- 📫 How to reach me: jhonatanssal@gmail.com
 - 😄 Pronouns: He/Him
 
 ### 🛠 Tech Stack
 
 - 💻 Ruby | Ruby on Rails
 - 🌐 HTML | CSS | JavaScript | Bootstrap
-- 🛢 MySQL 
+- 🛢 MySQL | PostgreSQL
 - 🔧 Git 
 
 ### 🤝🏻 Connect with Me
